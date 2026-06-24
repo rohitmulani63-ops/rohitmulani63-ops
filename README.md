@@ -27,7 +27,7 @@ My goal is simple: make projects easier to run, easier to review, and easier for
 | Project | Contribution | Status |
 | --- | --- | --- |
 | [GrantFox / GuildPass](https://github.com/Adamantine-guild/guildpass-app/pull/56) | Durable webhook idempotency work | Review |
-| [Drips / Ignition Pay](https://github.com/Ignition-World/ignition-pay/pull/88) | Database backup strategy contribution | Review |
+| [Drips / Ignition Pay](https://github.com/Ignition-World/ignition-pay/pull/88) | Database backup strategy contribution | Merged |
 | [Tailcall](https://github.com/tailcallhq/tailcallhq.github.io/pull/626) | Config generator work | Review |
 | [itssimmons/tetris.cpp](https://github.com/itssimmons/tetris.cpp/pull/30) | Hard-drop behavior fix | Maintainer testing |
 | [BonziAssist](https://github.com/dot-Justin/BonziAssist/pull/10) | First-run setup notes | PR submitted |
