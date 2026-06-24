@@ -1,19 +1,39 @@
-﻿# Rohit Mulani
+﻿<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Rohit%20Mulani&fontAlign=50&fontAlignY=38&desc=Maintainer-friendly%20OSS%20fixes&descAlign=50&descAlignY=58&color=0:0f172a,100:0ea5e9&fontColor=ffffff&descColor=e0f2fe" alt="Rohit Mulani - Maintainer-friendly OSS fixes" />
+</p>
 
-Open-source contributor focused on documentation, test coverage, reliability, and developer experience.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=2F81F7&center=true&width=850&lines=Maintainer-friendly+OSS+contributor;Small+bug+fixes+%7C+Docs+%7C+Tests+%7C+Setup+notes;Clean+PRs+with+clear+validation" alt="Typing SVG" />
+  </a>
+</p>
 
-I help projects become easier to run, safer to maintain, and clearer for the next contributor who lands in the repo.
+# Hi, I'm Rohit
 
-## Open-Source Proof Snapshot
+I help open-source maintainers with small, useful work: bug fixes, docs, setup notes, issue reproduction, tests, and clean PRs.
 
-| Signal | Current proof |
-| --- | --- |
-| Accepted contributions | 5 merged PRs across 5 repositories |
-| Current reviewed work | TypeORM behavior/test coverage PR under maintainer review |
-| Strongest areas | Docs, onboarding, runbooks, error catalogs, test coverage |
-| Public proof log | [accepted-open-source-contributions](https://github.com/rohitmulani63-ops/accepted-open-source-contributions) |
+My goal is simple: make projects easier to run, easier to review, and easier for the next contributor to understand.
 
-## Accepted Open-Source Contributions
+## Current focus
+
+- GrantFox and Stellar ecosystem contributions
+- Small OSS bug fixes
+- Documentation and setup improvements
+- Tests and validation notes
+- Maintainer-friendly pull requests
+
+## Recent public work
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [GrantFox / GuildPass](https://github.com/Adamantine-guild/guildpass-app/pull/56) | Durable webhook idempotency work | Review |
+| [Drips / Ignition Pay](https://github.com/Ignition-World/ignition-pay/pull/88) | Database backup strategy contribution | Review |
+| [Tailcall](https://github.com/tailcallhq/tailcallhq.github.io/pull/626) | Config generator work | Review |
+| [itssimmons/tetris.cpp](https://github.com/itssimmons/tetris.cpp/pull/30) | Hard-drop behavior fix | Maintainer testing |
+| [BonziAssist](https://github.com/dot-Justin/BonziAssist/pull/10) | First-run setup notes | Claimed / pending |
+| [Dokploy templates](https://github.com/Dokploy/templates/pulls?q=is%3Apr+author%3Arohitmulani63-ops) | Template additions and small fixes | Review |
+
+## Accepted open-source contributions
 
 | Project | Contribution | Maintainer outcome |
 | --- | --- | --- |
@@ -23,28 +43,37 @@ I help projects become easier to run, safer to maintain, and clearer for the nex
 | [QuickLendX Protocol](https://github.com/QuickLendX/quicklendx-protocol) | Error-code catalog with causes and remediation for integrators | [Merged via PR #1373](https://github.com/QuickLendX/quicklendx-protocol/pull/1373) |
 | [Remitwise Frontend](https://github.com/Remitwise-Org/Remitwise-Frontend) | Log-sanitization redaction test coverage to reduce PII leakage risk | [Merged via PR #542](https://github.com/Remitwise-Org/Remitwise-Frontend/pull/542) |
 
-## Current Work
+## How I work
 
-- [TypeORM PR #12596](https://github.com/typeorm/typeorm/pull/12596): default invalid `where` behavior and write-safety coverage for `update`, `delete`, `softDelete`, and `restore`.
+- I keep changes small and reviewable.
+- I link work clearly to the issue or maintainer request.
+- I avoid unrelated changes.
+- I include validation notes when useful.
+- I follow up quickly when maintainers ask for changes.
 
-## Focus Areas
+## Sponsor impact
 
-- Open-source documentation
-- Test coverage and reliability
-- Developer onboarding
-- Runbooks and operational clarity
-- Bounty-backed issue resolution
-- Practical AI-assisted engineering workflows
+Sponsorship helps fund public OSS maintenance sessions:
 
-## Working Style
+- issue reproduction
+- docs and setup fixes
+- small bug fixes
+- tests and validation notes
+- contributor-friendly PRs
 
-- Understand the issue and existing attempts before submitting.
-- Keep changes focused, reviewable, and easy to merge.
-- Prefer concrete proof: tests, examples, validation notes, or clear docs.
-- Communicate with maintainers clearly and respectfully.
-- Treat accepted work as proof of usefulness, not as a guarantee of bounty payout.
+I do not treat sponsorship as a guarantee to fix a specific issue. It supports steady public maintenance work that helps maintainers review and ship improvements faster.
 
-## Connect
+## Proof log
 
-- LinkedIn: [Rohit Mulani](https://www.linkedin.com/in/rohit-mulani-126a151aa/)
-- Contribution proof: [accepted-open-source-contributions](https://github.com/rohitmulani63-ops/accepted-open-source-contributions)
+- Public contribution proof: [accepted-open-source-contributions](https://github.com/rohitmulani63-ops/accepted-open-source-contributions)
+- Sponsor page: [github.com/sponsors/rohitmulani63-ops](https://github.com/sponsors/rohitmulani63-ops)
+
+## Tools and areas
+
+![GitHub](https://img.shields.io/badge/GitHub-OSS%20Contributor-181717?logo=github)
+![Docs](https://img.shields.io/badge/Docs-Setup%20Fixes-blue)
+![Bug Fixes](https://img.shields.io/badge/Bug%20Fixes-Small%20PRs-green)
+![Tests](https://img.shields.io/badge/Tests-Validation%20Notes-orange)
+![Stellar](https://img.shields.io/badge/Stellar-GrantFox%20Work-7D00FF)
+
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitmulani63-ops&show_icons=true&theme=transparent)
