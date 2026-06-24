@@ -30,7 +30,7 @@ My goal is simple: make projects easier to run, easier to review, and easier for
 | [Drips / Ignition Pay](https://github.com/Ignition-World/ignition-pay/pull/88) | Database backup strategy contribution | Review |
 | [Tailcall](https://github.com/tailcallhq/tailcallhq.github.io/pull/626) | Config generator work | Review |
 | [itssimmons/tetris.cpp](https://github.com/itssimmons/tetris.cpp/pull/30) | Hard-drop behavior fix | Maintainer testing |
-| [BonziAssist](https://github.com/dot-Justin/BonziAssist/pull/10) | First-run setup notes | Claimed / pending |
+| [BonziAssist](https://github.com/dot-Justin/BonziAssist/pull/10) | First-run setup notes | PR submitted |
 | [Dokploy templates](https://github.com/Dokploy/templates/pulls?q=is%3Apr+author%3Arohitmulani63-ops) | Template additions and small fixes | Review |
 
 ## Accepted open-source contributions
