@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Rohit%20Mulani&fontAlign=50&fontAlignY=38&desc=Maintainer-friendly%20OSS%20fixes&descAlign=50&descAlignY=58&color=0:0f172a,100:0ea5e9&fontColor=ffffff&descColor=e0f2fe" alt="Rohit Mulani - Maintainer-friendly OSS fixes" />
 </p>
 
@@ -29,9 +29,9 @@ My goal is simple: make projects easier to run, easier to review, and easier for
 | [GrantFox / GuildPass](https://github.com/Adamantine-guild/guildpass-app/pull/56) | Durable webhook idempotency work | Review |
 | [Drips / Ignition Pay](https://github.com/Ignition-World/ignition-pay/pull/88) | Database backup strategy contribution | Merged |
 | [Tailcall](https://github.com/tailcallhq/tailcallhq.github.io/pull/626) | Config generator work | Review |
-| [itssimmons/tetris.cpp](https://github.com/itssimmons/tetris.cpp/pull/30) | Hard-drop behavior fix | Maintainer testing |
+| [itssimmons/tetris.cpp](https://github.com/itssimmons/tetris.cpp/pull/30) | Hard-drop behavior fix | Merged |
 | [BonziAssist](https://github.com/dot-Justin/BonziAssist/pull/10) | First-run setup notes | PR submitted |
-| [Dokploy templates](https://github.com/Dokploy/templates/pulls?q=is%3Apr+author%3Arohitmulani63-ops) | Template additions and small fixes | Review |
+| [Dokploy templates](https://github.com/Dokploy/templates/pulls?q=is%3Apr+is%3Amerged+author%3Arohitmulani63-ops) | Template additions and small fixes | Multiple PRs merged |
 
 ## Accepted open-source contributions
 
