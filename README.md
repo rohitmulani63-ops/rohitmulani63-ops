@@ -33,6 +33,19 @@ My goal is simple: make projects easier to run, easier to review, and easier for
 | [BonziAssist](https://github.com/dot-Justin/BonziAssist/pull/10) | First-run setup notes | PR submitted |
 | [Dokploy templates](https://github.com/Dokploy/templates/pulls?q=is%3Apr+is%3Amerged+author%3Arohitmulani63-ops) | Template additions and small fixes | Multiple PRs merged |
 
+<!-- rtl-work:start -->
+## Arabic and right-to-left (RTL) fixes
+
+Pull requests that improve how apps handle Arabic, Hebrew, Persian and other right-to-left languages.
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [Slint](https://github.com/slint-ui/slint/pull/14595) | Long right-to-left text is cut with its "…" on the correct side | In review |
+| [axe-core](https://github.com/dequelabs/axe-core/pull/5508) | Stops the color-contrast check from treating Arabic text as icon ligatures | In review |
+| [Grommet](https://github.com/grommet/grommet/pull/8219) | TextInput inline actions follow `dir="rtl"` | In review |
+| [Django Debug Toolbar](https://github.com/django-commons/django-debug-toolbar/pull/2519) | First step toward RTL support: logical CSS properties in the toolbar, plus a lint check for RTL-unsafe CSS | In review |
+<!-- rtl-work:end -->
+
 ## Accepted open-source contributions
 
 | Project | Contribution | Maintainer outcome |
