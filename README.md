@@ -1,37 +1,24 @@
+<h1 align="center">Rohit Mulani</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Rohit%20Mulani&fontAlign=50&fontAlignY=38&desc=Maintainer-friendly%20OSS%20fixes&descAlign=50&descAlignY=58&color=0:0f172a,100:0ea5e9&fontColor=ffffff&descColor=e0f2fe" alt="Rohit Mulani - Maintainer-friendly OSS fixes" />
+  Small, reviewable open-source fixes, and right-to-left (RTL) support for Arabic and other RTL languages.<br>
+  Based in Dubai.
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=2F81F7&center=true&width=850&lines=Maintainer-friendly+OSS+contributor;Small+bug+fixes+%7C+Docs+%7C+Tests+%7C+Setup+notes;Clean+PRs+with+clear+validation" alt="Typing SVG" />
-  </a>
+  <a href="#arabic-and-right-to-left-rtl-fixes">RTL work</a> ·
+  <a href="#fixes-docs-and-tests">Fixes, docs and tests</a> ·
+  <a href="https://github.com/rohitmulani63-ops/accepted-open-source-contributions">Proof log</a> ·
+  <a href="https://github.com/sponsors/rohitmulani63-ops">Sponsor</a>
 </p>
 
-# Hi, I'm Rohit
+I help open-source maintainers with small, useful work: bug fixes, docs, runbooks, setup notes and tests. Each pull request stays focused, links to its issue and notes how it was checked.
 
-I help open-source maintainers with small, useful work: bug fixes, docs, setup notes, issue reproduction, tests, and clean PRs.
+My current focus is right-to-left (RTL) support. Many interfaces still break in Arabic, Hebrew and Persian: long text is cut off on the wrong side, controls ignore `dir="rtl"`, and automated checks misread Arabic script. I find these bugs and send fixes upstream.
 
-My goal is simple: make projects easier to run, easier to review, and easier for the next contributor to understand.
-
-## Current focus
-
-- GrantFox and Stellar ecosystem contributions
-- Small OSS bug fixes
-- Documentation and setup improvements
-- Tests and validation notes
-- Maintainer-friendly pull requests
-
-## Recent public work
-
-| Project | Contribution | Status |
-| --- | --- | --- |
-| [GrantFox / GuildPass](https://github.com/Adamantine-guild/guildpass-app/pull/56) | Durable webhook idempotency work | Review |
-| [Drips / Ignition Pay](https://github.com/Ignition-World/ignition-pay/pull/88) | Database backup strategy contribution | Merged |
-| [Tailcall](https://github.com/tailcallhq/tailcallhq.github.io/pull/626) | Config generator work | Review |
-| [itssimmons/tetris.cpp](https://github.com/itssimmons/tetris.cpp/pull/30) | Hard-drop behavior fix | Merged |
-| [BonziAssist](https://github.com/dot-Justin/BonziAssist/pull/10) | First-run setup notes | PR submitted |
-| [Dokploy templates](https://github.com/Dokploy/templates/pulls?q=is%3Apr+is%3Amerged+author%3Arohitmulani63-ops) | Template additions and small fixes | Multiple PRs merged |
+> "I really appreciate fixes / feedback on RTL issues."
+>
+> A Slint maintainer, in a [comment on slint-ui/slint#14595](https://github.com/slint-ui/slint/pull/14595#issuecomment-6506206900)
 
 <!-- rtl-work:start -->
 ## Arabic and right-to-left (RTL) fixes
@@ -46,47 +33,36 @@ Pull requests that improve how apps handle Arabic, Hebrew, Persian and other rig
 | [Django Debug Toolbar](https://github.com/django-commons/django-debug-toolbar/pull/2519) | First step toward RTL support: logical CSS properties in the toolbar, plus a lint check for RTL-unsafe CSS | In review |
 <!-- rtl-work:end -->
 
-## Accepted open-source contributions
+If your project has a right-to-left bug, tag me on the issue.
 
-| Project | Contribution | Maintainer outcome |
+## Fixes, docs and tests
+
+Mostly in the Stellar, GrantFox and Drips ecosystem, plus a few other projects.
+
+| Project | Contribution | Status |
 | --- | --- | --- |
-| [Grainlify Stellar Contracts](https://github.com/Grainlify/Grainlify-Stellar-Contracts) | Deployment and upgrade runbook for safer releases and rollbacks | [Merged via PR #105](https://github.com/Grainlify/Grainlify-Stellar-Contracts/pull/105) |
 | [Credence Frontend](https://github.com/CredenceOrg/Credence-Frontend) | `.env.example` and `/api` proxy setup docs for faster contributor setup | [Merged via PR #196](https://github.com/CredenceOrg/Credence-Frontend/pull/196) |
 | [Remitwise Contracts](https://github.com/Remitwise-Org/Remitwise-Contracts) | Dependency health-check schema and status-code docs | [Merged via PR #785](https://github.com/Remitwise-Org/Remitwise-Contracts/pull/785) |
 | [QuickLendX Protocol](https://github.com/QuickLendX/quicklendx-protocol) | Error-code catalog with causes and remediation for integrators | [Merged via PR #1373](https://github.com/QuickLendX/quicklendx-protocol/pull/1373) |
 | [Remitwise Frontend](https://github.com/Remitwise-Org/Remitwise-Frontend) | Log-sanitization redaction test coverage to reduce PII leakage risk | [Merged via PR #542](https://github.com/Remitwise-Org/Remitwise-Frontend/pull/542) |
+| [Drips / Ignition Pay](https://github.com/Ignition-World/ignition-pay/pull/88) | Database backup strategy contribution | Merged |
+| [GrantFox / GuildPass](https://github.com/Adamantine-guild/guildpass-app/pull/56) | Durable webhook idempotency work | Merged |
+| [itssimmons/tetris.cpp](https://github.com/itssimmons/tetris.cpp/pull/30) | Hard-drop behavior fix | Merged |
+| [Dokploy templates](https://github.com/Dokploy/templates/pulls?q=is%3Apr+is%3Amerged+author%3Arohitmulani63-ops) | Template additions and small fixes | 23 PRs merged |
+| Grainlify Stellar Contracts | Deployment and upgrade runbook for safer releases and rollbacks | Merged (PR #105, June 2026; the repository has since been removed) |
+| [BonziAssist](https://github.com/dot-Justin/BonziAssist/pull/10) | First-run setup notes | In review |
+| [Tailcall](https://github.com/tailcallhq/tailcallhq.github.io/pull/626) | Config generator work | Closed |
 
 ## How I work
 
-- I keep changes small and reviewable.
-- I link work clearly to the issue or maintainer request.
-- I avoid unrelated changes.
-- I include validation notes when useful.
-- I follow up quickly when maintainers ask for changes.
+- Small, reviewable changes, with nothing unrelated mixed in.
+- Every pull request links to the issue or the maintainer's request.
+- Validation notes when they help the review.
+- Quick follow-up when maintainers ask for changes.
 
-## Sponsor impact
+## Support this work
 
-Sponsorship helps fund public OSS maintenance sessions:
+Sponsorship funds steady public maintenance: reproducing issues, docs and setup fixes, small bug fixes, tests and RTL fixes. It supports the work in general; it is not a promise to fix a specific issue.
 
-- issue reproduction
-- docs and setup fixes
-- small bug fixes
-- tests and validation notes
-- contributor-friendly PRs
-
-I do not treat sponsorship as a guarantee to fix a specific issue. It supports steady public maintenance work that helps maintainers review and ship improvements faster.
-
-## Proof log
-
-- Public contribution proof: [accepted-open-source-contributions](https://github.com/rohitmulani63-ops/accepted-open-source-contributions)
-- Sponsor page: [github.com/sponsors/rohitmulani63-ops](https://github.com/sponsors/rohitmulani63-ops)
-
-## Tools and areas
-
-![GitHub](https://img.shields.io/badge/GitHub-OSS%20Contributor-181717?logo=github)
-![Docs](https://img.shields.io/badge/Docs-Setup%20Fixes-blue)
-![Bug Fixes](https://img.shields.io/badge/Bug%20Fixes-Small%20PRs-green)
-![Tests](https://img.shields.io/badge/Tests-Validation%20Notes-orange)
-![Stellar](https://img.shields.io/badge/Stellar-GrantFox%20Work-7D00FF)
-
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitmulani63-ops&show_icons=true&theme=transparent)
+- Sponsor: [github.com/sponsors/rohitmulani63-ops](https://github.com/sponsors/rohitmulani63-ops) (application pending)
+- Proof log: [accepted-open-source-contributions](https://github.com/rohitmulani63-ops/accepted-open-source-contributions), a dated list of accepted contributions with issue and PR links
