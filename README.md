@@ -31,6 +31,8 @@ Pull requests that improve how apps handle Arabic, Hebrew, Persian and other rig
 | [axe-core](https://github.com/dequelabs/axe-core/pull/5508) | Stops the color-contrast check from treating Arabic text as icon ligatures | In review |
 | [Grommet](https://github.com/grommet/grommet/pull/8219) | TextInput inline actions follow `dir="rtl"` | In review |
 | [Django Debug Toolbar](https://github.com/django-commons/django-debug-toolbar/pull/2519) | First step toward RTL support: logical CSS properties in the toolbar, plus a lint check for RTL-unsafe CSS | In review |
+| [Wagtail](https://github.com/wagtail/wagtail/pull/14782) | The sitemap skips translations that have no URL (seen with Arabic pages) instead of listing them as `href="None"` | In review |
+| [Wagtail user guide](https://github.com/wagtail/guide/pull/529) | The language selector skips translations that have no URL instead of linking to `href="None"` | In review |
 <!-- rtl-work:end -->
 
 If your project has a right-to-left bug, tag me on the issue.
