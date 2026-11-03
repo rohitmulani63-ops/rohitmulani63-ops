@@ -11,6 +11,6 @@ Hi, I'm Rohit. I work on open-source projects, with a lot of help from AI coding
 
 Before that, I got 19 new templates and 4 fixes merged into [Dokploy's templates](https://github.com/Dokploy/templates/pulls?q=is%3Apr+is%3Amerged+author%3Arohitmulani63-ops).
 
-I've also closed Drips Wave and GrantFox issues: docs and backend work in [QuickLendX](https://github.com/QuickLendX/quicklendx-protocol/pull/1373), [Credence](https://github.com/CredenceOrg/Credence-Frontend/pull/196), [Ignition Pay](https://github.com/Ignition-World/ignition-pay/pull/88) and [GuildPass](https://github.com/Adamantine-guild/guildpass-app/pull/56).
+Earlier, through Drips Wave and GrantFox, I got docs and backend work merged in [QuickLendX](https://github.com/QuickLendX/quicklendx-protocol/pull/1373), [Credence](https://github.com/CredenceOrg/Credence-Frontend/pull/196), [Ignition Pay](https://github.com/Ignition-World/ignition-pay/pull/88) and [GuildPass](https://github.com/Adamantine-guild/guildpass-app/pull/56).
 
 If your project has a right-to-left bug, tag me on the issue.
