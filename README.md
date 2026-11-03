@@ -66,5 +66,5 @@ Mostly in the Stellar, GrantFox and Drips ecosystem, plus a few other projects.
 
 Sponsorship funds steady public maintenance: reproducing issues, docs and setup fixes, small bug fixes, tests and RTL fixes. It supports the work in general; it is not a promise to fix a specific issue.
 
-- Sponsor: [github.com/sponsors/rohitmulani63-ops](https://github.com/sponsors/rohitmulani63-ops) (application pending)
+- Sponsor: [github.com/sponsors/rohitmulani63-ops](https://github.com/sponsors/rohitmulani63-ops)
 - Proof log: [accepted-open-source-contributions](https://github.com/rohitmulani63-ops/accepted-open-source-contributions), a dated list of accepted contributions with issue and PR links
