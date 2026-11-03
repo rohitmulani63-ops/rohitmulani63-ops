@@ -11,4 +11,6 @@ Hi, I'm Rohit. Lately I've been fixing right-to-left bugs in open-source UI code
 
 Before that, I got 19 new templates and 4 fixes merged into [Dokploy's templates](https://github.com/Dokploy/templates/pulls?q=is%3Apr+is%3Amerged+author%3Arohitmulani63-ops).
 
+I've also fixed Drips Wave and GrantFox issues: docs, tests and backend work in [QuickLendX](https://github.com/QuickLendX/quicklendx-protocol/pull/1373), [Credence](https://github.com/CredenceOrg/Credence-Frontend/pull/196), [Ignition Pay](https://github.com/Ignition-World/ignition-pay/pull/88) and [GuildPass](https://github.com/Adamantine-guild/guildpass-app/pull/56).
+
 If your project has an RTL bug, tag me on the issue.
